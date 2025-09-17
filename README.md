@@ -22,20 +22,21 @@ The app leverages **Natural Language Processing (NLP)** and **Machine Learning**
 ```bash
 git clone https://github.com/your-username/fake-news-detection.git
 cd fake-news-detection
+```
+```bash
 🔹 Install Dependencies
 Make sure you have Python 3.8+ installed.
+```
+```bash
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
+```
 🔹 Run the App Locally
-bash
-Copy
-Edit
+```bash
+
 streamlit run app.py
 Then open your browser at 👉 http://localhost:8501
-
+```
 📦 Tech Stack
 Python 🐍
 
@@ -61,7 +62,6 @@ The model will classify the input as:
 
 🤝 Contributing
 Contributions are welcome!
-
 Fork the repo
 
 Create a feature branch (git checkout -b feature-name)
@@ -72,11 +72,3 @@ Push to the branch (git push origin feature-name)
 
 Open a Pull Request
 
-📧 Contact
-👤 Aditya Kumar Arya
-
-🌐 Portfolio
-
-💼 LinkedIn
-
-🐙 GitHub
